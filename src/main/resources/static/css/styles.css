@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.ted-img{
+	max-width:200px;
+	transition:0.4s;
+}
+.ted-img:hover{
+	opacity:0.7;
+}
+h1{
+	color:#494368;
+}
